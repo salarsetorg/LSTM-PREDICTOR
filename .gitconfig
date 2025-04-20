@@ -1,7 +1,0 @@
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
-[gui]
-	recentrepo = C:/Users/911479/OneDrive - hull.ac.uk/Desktop/Research/2025
